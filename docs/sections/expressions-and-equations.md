@@ -54,7 +54,7 @@ Budget about 60 to 90 seconds for most of these. Solving and simplifying are usu
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the NJATC aptitude test or any publisher's materials. No calculator.
+These 5 items are original, written for these notes. They are not taken from the NJATC aptitude test or any publisher's materials. No calculator.
 
 **Item 1.** If 5x − 9 = 2x + 12, what is x?
 
@@ -68,12 +68,16 @@ A. 2x² + 7x − 15 · B. 2x² − 7x − 15 · C. 2x² + 13x − 15 · D. 2x² 
 
 A. (x + 4)(x + 5) · B. (x − 4)(x − 5) · C. (x − 2)(x − 10) · D. (x + 4)(x − 5)
 
-**Item 4.** Which expression is equal to 3(2a − b) − 2(a − 4b)?
+**Item 4.** Which expression is equal to 49 − 4m²?
 
-A. 4a − 11b · B. 4a + 5b · C. 4a − 5b · D. 8a + 5b
+A. (7 − 2m)² · B. (7 − 2m)(7 + 2m) · C. (7 − 4m)(7 + m) · D. (49 − 2m)(1 + 2m)
+
+**Item 5.** Which expression is equal to (x³ × x⁴) ÷ x²?
+
+A. x⁵ · B. x¹⁰ · C. x⁶ · D. x¹²
 
 <details>
-<summary>Answers and explanations, items 1 to 4</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: C (7).** Subtract 2x from both sides: 3x − 9 = 12. Add 9: 3x = 21. Divide by 3: x = 7. Check: 5 × 7 − 9 = 26 and 2 × 7 + 12 = 26. *Why not D:* 21 stops before dividing by 3.
 
@@ -81,77 +85,23 @@ A. 4a − 11b · B. 4a + 5b · C. 4a − 5b · D. 8a + 5b
 
 **Item 3: B ((x − 4)(x − 5)).** You need two numbers that multiply to +20 and add to −9. Both must be negative: −4 and −5. *Why not C:* −2 and −10 multiply to 20 but add to −12. *Why not D:* +4 and −5 multiply to −20.
 
-**Item 4: B (4a + 5b).** Expand: 6a − 3b − 2a + 8b. The −2 times −4b gives +8b. Collect: 4a + 5b. *Why not A:* −11b comes from writing −8b instead of +8b.
+**Item 4: B ((7 − 2m)(7 + 2m)).** 49 is 7² and 4m² is (2m)². A difference of two squares, p² − q², factors as (p − q)(p + q). Check: (7 − 2m)(7 + 2m) = 49 + 14m − 14m − 4m² = 49 − 4m². *Why not A:* (7 − 2m)² = 49 − 28m + 4m², which has a middle term and a plus on the m².
+
+**Item 5: A (x⁵).** When multiplying powers of the same letter, add the exponents: x³ × x⁴ = x⁷. When dividing, subtract: x⁷ ÷ x² = x⁵. *Why not D:* x¹² multiplies the exponents 3 and 4, which is the rule for a power of a power, not a product.
 
 </details>
 
-**Item 5.** If x ÷ 3 + 4 = 10, what is x?
-
-A. 2 · B. 6 · C. 42 · D. 18
-
-**Item 6.** If 4(x + 2) = 3(x + 6), what is x?
-
-A. 10 · B. −2 · C. 26 · D. 13
-
-**Item 7.** If x + y = 14 and x − y = 4, what is y?
-
-A. 4 · B. 10 · C. 9 · D. 5
-
-**Item 8.** Which expression is equal to 49 − 4m²?
-
-A. (7 − 2m)² · B. (7 − 2m)(7 + 2m) · C. (7 − 4m)(7 + m) · D. (49 − 2m)(1 + 2m)
-
-<details>
-<summary>Answers and explanations, items 5 to 8</summary>
-
-**Item 5: D (18).** Subtract 4: x ÷ 3 = 6. Multiply by 3: x = 18. *Why not A:* 2 divides 6 by 3 instead of multiplying. *Why not C:* 42 multiplies 14 by 3, adding 4 instead of subtracting it.
-
-**Item 6: A (10).** Expand: 4x + 8 = 3x + 18. Subtract 3x: x + 8 = 18. Subtract 8: x = 10. Check: 4 × 12 = 48 and 3 × 16 = 48. *Why not B:* −2 comes from 4x + 8 = 3x + 6, which multiplies the x by 3 but forgets the 6. The number outside a bracket multiplies every term inside it.
-
-**Item 7: D (5).** Add the two equations: 2x = 18, so x = 9. Then 9 + y = 14, so y = 5. *Why not C:* 9 is x, not y. Reread what the question asks.
-
-**Item 8: B ((7 − 2m)(7 + 2m)).** 49 is 7² and 4m² is (2m)². A difference of two squares, p² − q², factors as (p − q)(p + q). Check: (7 − 2m)(7 + 2m) = 49 + 14m − 14m − 4m² = 49 − 4m². *Why not A:* (7 − 2m)² = 49 − 28m + 4m², which has a middle term and a plus on the m².
-
-</details>
-
-**Item 9.** Which expression is equal to (x³ × x⁴) ÷ x²?
-
-A. x⁵ · B. x¹⁰ · C. x⁶ · D. x¹²
-
-**Item 10.** If 2(3 − x) = x − 9, what is x?
-
-A. −1 · B. 5 · C. 3 · D. −5
-
-**Item 11.** If 6 ÷ x = 2 ÷ 5, what is x?
-
-A. 15 · B. 12 ÷ 5 · C. 5 ÷ 3 · D. 3
-
-**Item 12.** If (x − 2) ÷ 4 = (x + 1) ÷ 7, what is x?
-
-A. 6 · B. 2 · C. 18 · D. −6
-
-<details>
-<summary>Answers and explanations, items 9 to 12</summary>
-
-**Item 9: A (x⁵).** When multiplying powers of the same letter, add the exponents: x³ × x⁴ = x⁷. When dividing, subtract: x⁷ ÷ x² = x⁵. *Why not D:* x¹² multiplies the exponents 3 and 4, which is the rule for a power of a power, not a product.
-
-**Item 10: B (5).** Expand: 6 − 2x = x − 9. Add 2x to both sides: 6 = 3x − 9. Add 9: 15 = 3x. So x = 5. Check: 2(3 − 5) = −4 and 5 − 9 = −4. *Why not D:* −5 is the right size with the wrong sign, which usually means a sign was lost when moving a term.
-
-**Item 11: A (15).** Cross-multiply: 6 × 5 = 2 × x, so 30 = 2x and x = 15. Check: 6 ÷ 15 = 2 ÷ 5, both 0.4. *Why not B:* 12 ÷ 5 multiplies 6 by 2 and divides by 5, which sets the cross-multiplication up the wrong way round.
-
-**Item 12: A (6).** Cross-multiply: 7(x − 2) = 4(x + 1). Expand: 7x − 14 = 4x + 4. Subtract 4x: 3x − 14 = 4. Add 14: 3x = 18. So x = 6. Check: (6 − 2) ÷ 4 = 1 and (6 + 1) ÷ 7 = 1. *Why not C:* 18 stops before dividing by 3.
-
-</details>
+Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | B | D | A | D | B | A | B | A | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | A | B | B | A |
 
-- **11 to 12:** your algebra is solid. Keep it warm with a few items a day and focus your study elsewhere.
-- **8 to 10:** check whether your misses were signs or method. Sign errors call for the check-by-substitution habit. Method gaps call for a short refresher on that one move.
-- **7 or fewer:** this is the area to fix first, because it feeds every other algebra item. Work through one type a day (solve, expand, factor, simplify) and redo these 12 at the end of the week.
+- **5 of 5:** your algebra is solid. Keep it warm with a few items a day and focus your study elsewhere.
+- **3 to 4:** check whether your misses were signs or method. Sign errors call for the check-by-substitution habit. Method gaps call for a short refresher on that one move.
+- **2 or fewer:** this is the area to fix first, because it feeds every other algebra item. Work through one type a day (solve, expand, factor, simplify) and redo these 5 at the end of the week.
 
 ## Next step
 

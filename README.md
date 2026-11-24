@@ -1,13 +1,13 @@
 # IBEW Aptitude Test Study Notes
 
-A free, complete study guide for the IBEW aptitude test, officially the NJATC aptitude test battery used by IBEW and NECA electrical apprenticeship programs. It covers how the battery works, a clear method for every item type in Algebra and Functions and in Reading Comprehension, 75 original practice items with full explanations, what is and is not published about scoring, and study plans for a week or a weekend. All of it is written to be done the way the real test is taken: by hand, without a calculator. Facts about the test come only from the electrical training ALLIANCE and local programs' own pages, each one [cited](docs/sources.md).
+A free, complete study guide for the IBEW aptitude test, officially the NJATC aptitude test battery used by IBEW and NECA electrical apprenticeship programs. It covers how the battery works, a clear method for every item type in Algebra and Functions and in Reading Comprehension, 34 original practice items with full explanations, what is and is not published about scoring, and study plans for a week or a weekend. All of it is written to be done the way the real test is taken: by hand, without a calculator. Facts about the test come only from the electrical training ALLIANCE and local programs' own pages, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak areas.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each area and tells you where to start.
-2. **Fix the weakest area first.** Open its guide below, learn the method, then do its 12 practice items.
+1. **Find your weak areas.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items from each area and tells you where to start.
+2. **Fix the weakest area first.** Open its guide below, learn the method, then do its 5 practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test date is close.
 
 ## Quick facts
@@ -39,7 +39,7 @@ Source: [electrical training ALLIANCE, Applying for Apprenticeship](https://www.
 | Functions, tables and inequalities | Algebra and Functions | Match rules to tables, solve inequalities, read lines | [Functions](docs/sections/functions-tables-and-inequalities.md) |
 | Reading comprehension | Reading Comprehension | Answer detail, main idea, inference and vocabulary questions on passages | [Reading](docs/sections/reading-comprehension.md) |
 
-The real battery has two timed tests. These notes split Algebra and Functions into four guides so you can practise one skill at a time. Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+The real battery has two timed tests. These notes split Algebra and Functions into four guides so you can practise one skill at a time. Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations (4 for reading comprehension), and a score table.
 
 ## Contents
 
@@ -180,7 +180,7 @@ The real battery has two timed tests. These notes split Algebra and Functions in
 
 ## About the practice items
 
-All 75 practice items are original, written for these notes. None are taken from the NJATC aptitude test, the electrical training ALLIANCE's materials or any prep site. They follow the item types shown in the official samples so that the methods you learn here transfer to the real test.
+All 34 practice items are original, written for these notes. None are taken from the NJATC aptitude test, the electrical training ALLIANCE's materials or any prep site. They follow the item types shown in the official samples so that the methods you learn here transfer to the real test.
 
 ## Related study notes
 
