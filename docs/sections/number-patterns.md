@@ -18,13 +18,13 @@ The rules you will meet most:
 
 | Rule | Example (our own) | How to spot it |
 |---|---|---|
-| Add or subtract the same amount | 3, 7, 11, 15 | Differences are all equal |
-| Multiply or divide by the same amount | 2, 6, 18, 54 | Numbers grow or shrink fast; ratios are equal |
-| Differences that grow | 2, 3, 5, 8, 12 | Differences go 1, 2, 3, 4 |
-| Squares or cubes | 1, 4, 9, 16 | Each term is 1², 2², 3², 4² |
-| Two steps that alternate | 3, 6, 5, 10, 9 | Differences flip between two operations |
-| Two patterns woven together | 5, 20, 7, 18, 9 | Every other number makes its own simple pattern |
-| Each term from the two before | 1, 2, 3, 5, 8 | Each term is the sum of the previous two |
+| Add or subtract the same amount | 4, 10, 16, 22 | Differences are all equal |
+| Multiply or divide by the same amount | 5, 10, 20, 40 | Numbers grow or shrink fast; ratios are equal |
+| Differences that grow | 1, 3, 6, 10, 15 | Differences go 1, 2, 3, 4 |
+| Squares or cubes | 1, 8, 27, 64 | Each term is 1³, 2³, 3³, 4³ |
+| Two steps that alternate | 2, 5, 4, 7, 6 | Differences flip between two operations |
+| Two patterns woven together | 1, 30, 2, 25, 3 | Every other number makes its own simple pattern |
+| Each term from the two before | 2, 2, 4, 6, 10 | Each term is the sum of the previous two |
 
 ## A method that works
 
@@ -38,10 +38,10 @@ The rules you will meet most:
 ## Traps that cost points
 
 - **Checking only the last gap.** The wrong choices are built to fit the last step under a different rule.
-- **Missing a sign change.** In 50, 47, 41, 32, the differences are −3, −6, −9. The next difference is −12, not +12.
+- **Missing a sign change.** In 40, 38, 34, 28, the differences are −2, −4, −6. The next difference is −8, not +8.
 - **Splitting too late.** If two differences in a row have different signs, try odd and even positions before anything else.
 - **Losing count of positions.** When the question asks for the next number in an interleaved pattern, work out whether that position is odd or even first.
-- **Adding instead of multiplying for a far term.** For the 20th term of 6, 11, 16, 21, you add the difference 19 times, not 20, because the first term already counts as one.
+- **Adding instead of multiplying for a far term.** For the 30th term of 2, 9, 16, 23, you add the difference 29 times, not 20, because the first term already counts as one.
 
 ## Timing
 

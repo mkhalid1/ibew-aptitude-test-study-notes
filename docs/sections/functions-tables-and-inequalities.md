@@ -133,7 +133,7 @@ A. 22 · B. 33 · C. 30 · D. 60
 
 A. from 12 down to 4 · B. from 12 up to 36 · C. from 4 up to 12 · D. from 48 up to 144
 
-**Item 12.** How many whole numbers x make −3 < 2x + 1 < 9 true?
+**Item 12.** How many integers x (positive, negative or zero) make −3 < 2x + 1 < 9 true?
 
 A. 7 · B. 4 · C. 5 · D. 6
 
@@ -146,7 +146,7 @@ A. 7 · B. 4 · C. 5 · D. 6
 
 **Item 11: A (from 12 down to 4).** 24 ÷ 2 = 12 and 24 ÷ 6 = 4. When x is in the bottom of a fraction, a bigger x gives a smaller y. *Why not B:* 36 multiplies by 6 instead of dividing.
 
-**Item 12: C (5).** Subtract 1 from all three parts: −4 < 2x < 8. Divide all three by 2: −2 < x < 4. The whole numbers strictly between −2 and 4 are −1, 0, 1, 2 and 3. That is 5. *Why not A:* 7 includes −2 and 4, but the signs are "less than," not "less than or equal to."
+**Item 12: C (5).** Subtract 1 from all three parts: −4 < 2x < 8. Divide all three by 2: −2 < x < 4. The integers strictly between −2 and 4 are −1, 0, 1, 2 and 3. That is 5. *Why not A:* 7 includes −2 and 4, but the signs are "less than," not "less than or equal to."
 
 </details>
 
