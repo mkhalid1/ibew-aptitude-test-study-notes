@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Reading comprehension](sections/reading-comprehension.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Reading comprehension](sections/reading-comprehension.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How scoring works
 
@@ -62,4 +64,6 @@ Our study guidance, not an official standard: if you can get about 80% or more o
 
 ---
 
-<!-- nav:bottom -->← Previous: [Reading comprehension](sections/reading-comprehension.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Reading comprehension](sections/reading-comprehension.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

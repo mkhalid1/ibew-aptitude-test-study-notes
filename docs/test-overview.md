@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The IBEW aptitude test explained
 
@@ -74,4 +76,6 @@ The battery and the rules on this page come from the electrical training ALLIANC
 
 ---
 
-<!-- nav:bottom -->Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

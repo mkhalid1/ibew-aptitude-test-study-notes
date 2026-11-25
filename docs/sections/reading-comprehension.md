@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Functions, tables and inequalities](functions-tables-and-inequalities.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Functions, tables and inequalities](functions-tables-and-inequalities.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Reading comprehension
 
@@ -107,4 +109,6 @@ The real passages are longer than these, and the clock changes how you read. Pra
 
 ---
 
-<!-- nav:bottom -->← Previous: [Functions, tables and inequalities](functions-tables-and-inequalities.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Functions, tables and inequalities](functions-tables-and-inequalities.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

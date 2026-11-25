@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Number patterns](number-patterns.md) · Next: [Reading comprehension](reading-comprehension.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Number patterns](number-patterns.md) · Next: [Reading comprehension](reading-comprehension.md)
+<!-- /nav:top -->
 
 # Functions, tables and inequalities
 
@@ -112,4 +114,6 @@ Functions and inequalities are where calm checking pays off. Practise them insid
 
 ---
 
-<!-- nav:bottom -->← Previous: [Number patterns](number-patterns.md) | Next: [Reading comprehension](reading-comprehension.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Number patterns](number-patterns.md) | Next: [Reading comprehension](reading-comprehension.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Expressions and equations](expressions-and-equations.md) · Next: [Functions, tables and inequalities](functions-tables-and-inequalities.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Expressions and equations](expressions-and-equations.md) · Next: [Functions, tables and inequalities](functions-tables-and-inequalities.md)
+<!-- /nav:top -->
 
 # Number patterns
 
@@ -104,4 +106,6 @@ Patterns are where a calm routine beats raw speed. Try them mixed with other alg
 
 ---
 
-<!-- nav:bottom -->← Previous: [Expressions and equations](expressions-and-equations.md) | Next: [Functions, tables and inequalities](functions-tables-and-inequalities.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Expressions and equations](expressions-and-equations.md) | Next: [Functions, tables and inequalities](functions-tables-and-inequalities.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

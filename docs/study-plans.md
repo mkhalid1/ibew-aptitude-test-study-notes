@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [For apprenticeship applicants](apprenticeship-applicants.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [For apprenticeship applicants](apprenticeship-applicants.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -60,4 +62,6 @@ If you only have one evening, do day 1 blocks 1, 2 and 3, read the checklist, an
 
 ---
 
-<!-- nav:bottom -->← Previous: [Timing and pacing](timing.md) | Next: [For apprenticeship applicants](apprenticeship-applicants.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Timing and pacing](timing.md) | Next: [For apprenticeship applicants](apprenticeship-applicants.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

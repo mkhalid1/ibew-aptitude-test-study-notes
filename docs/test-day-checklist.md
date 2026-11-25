@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For apprenticeship applicants](apprenticeship-applicants.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For apprenticeship applicants](apprenticeship-applicants.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -45,4 +47,6 @@ A day or two before the test, do one relaxed timed run so the pace feels familia
 
 ---
 
-<!-- nav:bottom -->← Previous: [For apprenticeship applicants](apprenticeship-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For apprenticeship applicants](apprenticeship-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Expressions and equations](expressions-and-equations.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Expressions and equations](expressions-and-equations.md)
+<!-- /nav:top -->
 
 # Formulas and substitution
 
@@ -108,4 +110,6 @@ Substitution feels easy until the clock is running. Try it inside a full timed s
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Expressions and equations](expressions-and-equations.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Expressions and equations](expressions-and-equations.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

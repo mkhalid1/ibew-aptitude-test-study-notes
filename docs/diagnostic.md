@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The IBEW aptitude test explained](test-overview.md) · Next: [Formulas and substitution](sections/formulas-and-substitution.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The IBEW aptitude test explained](test-overview.md) · Next: [Formulas and substitution](sections/formulas-and-substitution.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -106,4 +108,6 @@ Two items per area is a small sample. Treat this as a starting point, not a verd
 
 ---
 
-<!-- nav:bottom -->← Previous: [The IBEW aptitude test explained](test-overview.md) | Next: [Formulas and substitution](sections/formulas-and-substitution.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The IBEW aptitude test explained](test-overview.md) | Next: [Formulas and substitution](sections/formulas-and-substitution.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

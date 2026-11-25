@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Formulas and substitution](formulas-and-substitution.md) · Next: [Number patterns](number-patterns.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Formulas and substitution](formulas-and-substitution.md) · Next: [Number patterns](number-patterns.md)
+<!-- /nav:top -->
 
 # Expressions and equations
 
@@ -109,4 +111,6 @@ When these moves feel automatic, test them against the clock with the [free NJAT
 
 ---
 
-<!-- nav:bottom -->← Previous: [Formulas and substitution](formulas-and-substitution.md) | Next: [Number patterns](number-patterns.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Formulas and substitution](formulas-and-substitution.md) | Next: [Number patterns](number-patterns.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
