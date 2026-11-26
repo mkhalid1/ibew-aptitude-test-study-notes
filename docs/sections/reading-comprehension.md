@@ -91,7 +91,7 @@ A. Evidence from real storms helped persuade people who doubted lightning rods Â
 
 </details>
 
-Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
+Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
 
 ## Score yourself
 
@@ -105,7 +105,7 @@ Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://pr
 
 ## Next step
 
-The real passages are longer than these, and the clock changes how you read. Practise full timed passages with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), then come back to the traps list for anything that caught you.
+The real passages are longer than these, and the clock changes how you read. Practise full timed passages with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), then come back to the traps list for anything that caught you.
 
 ---
 

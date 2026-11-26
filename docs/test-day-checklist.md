@@ -43,7 +43,7 @@ You do not need to bring pencils or paper. The ALLIANCE says pencils and all oth
 
 ## Last practice before the real one
 
-A day or two before the test, do one relaxed timed run so the pace feels familiar, such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test). Then stop and rest.
+A day or two before the test, do one relaxed timed run so the pace feels familiar, such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test). Then stop and rest.
 
 ---
 

@@ -14,7 +14,7 @@ Two plans: one for a week, one for when your test date is close. Both start with
 | 2 | Formulas | Read [formulas and substitution](sections/formulas-and-substitution.md). Do all 5 items. For every miss, write one line: what you did, what the right step was. |
 | 3 | Algebra | Read [expressions and equations](sections/expressions-and-equations.md). Do all 5 items, then 10 more solve and factor items from a textbook or free source. |
 | 4 | Patterns and functions | Read [number patterns](sections/number-patterns.md) and [functions, tables and inequalities](sections/functions-tables-and-inequalities.md). Do both item sets. |
-| 5 | Reading, then a timed run | Read [reading comprehension](sections/reading-comprehension.md) and do its 4 items. Then take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test). Read the [timing guide](timing.md). |
+| 5 | Reading, then a timed run | Read [reading comprehension](sections/reading-comprehension.md) and do its 4 items. Then take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test). Read the [timing guide](timing.md). |
 | 6 | Fix the weakest area | Reread the traps list for your weakest area. Redo its items without looking at the answers. Find at least 20 fresh items of that type. |
 | 7 | Second timed run and rest | Take a second full timed test in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop studying by early evening. |
 

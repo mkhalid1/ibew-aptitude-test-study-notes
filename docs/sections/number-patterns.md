@@ -88,7 +88,7 @@ A. 100 · B. 101 · C. 106 · D. 96
 
 </details>
 
-Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
+Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
 
 ## Score yourself
 
@@ -102,7 +102,7 @@ Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://pr
 
 ## Next step
 
-Patterns are where a calm routine beats raw speed. Try them mixed with other algebra items in the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), then return to the rules table for any type that caught you.
+Patterns are where a calm routine beats raw speed. Try them mixed with other algebra items in the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), then return to the rules table for any type that caught you.
 
 ---
 

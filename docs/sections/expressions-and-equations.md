@@ -93,7 +93,7 @@ A. x⁵ · B. x¹⁰ · C. x⁶ · D. x¹²
 
 </details>
 
-Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
+Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
 
 ## Score yourself
 
@@ -107,7 +107,7 @@ Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://pr
 
 ## Next step
 
-When these moves feel automatic, test them against the clock with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), then come back to the traps list for anything you missed.
+When these moves feel automatic, test them against the clock with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), then come back to the traps list for anything you missed.
 
 ---
 

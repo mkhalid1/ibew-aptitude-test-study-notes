@@ -2,7 +2,7 @@
 
 A free, complete study guide for the IBEW aptitude test, officially the NJATC aptitude test battery used by IBEW and NECA electrical apprenticeship programs. It covers how the battery works, a clear method for every item type in Algebra and Functions and in Reading Comprehension, 34 original practice items with full explanations, what is and is not published about scoring, and study plans for a week or a weekend. All of it is written to be done the way the real test is taken: by hand, without a calculator. Facts about the test come only from the electrical training ALLIANCE and local programs' own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -175,7 +175,7 @@ The real battery has two timed tests. These notes split Algebra and Functions in
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations." Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the most tempting wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write what went wrong. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), teaches the pace.
+- **Practise timed.** The notes teach the methods. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), teaches the pace.
 - **Clone or fork it** if you want your own annotated copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

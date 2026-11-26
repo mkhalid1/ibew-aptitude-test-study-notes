@@ -72,7 +72,7 @@ A photo ID. The ALLIANCE says pencils and all other materials are provided, and 
 
 - The electrical training ALLIANCE's [official sample page](https://www.electricaltrainingalliance.org/SamplePage/PreparingfortheTest) has a handful of sample items with an answer key.
 - The 34 original items in these notes, each with a full explanation.
-- The [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), which is timed.
+- The [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), which is timed.
 
 ---
 

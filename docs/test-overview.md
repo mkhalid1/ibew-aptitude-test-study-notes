@@ -68,7 +68,7 @@ The ALLIANCE's own advice is to review the sample questions, and if certain type
 1. Take the [15-minute diagnostic](diagnostic.md) to find your weak areas.
 2. Work through those practice pages first.
 3. Follow the [7-day plan](study-plans.md#7-day-plan), or the [2-day plan](study-plans.md#2-day-plan) if your test date is close.
-4. Do at least one full timed run, such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test).
+4. Do at least one full timed run, such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test).
 
 ## Is everyone's test the same?
 

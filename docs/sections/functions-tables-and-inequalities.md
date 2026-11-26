@@ -96,7 +96,7 @@ A. 22 · B. 33 · C. 30 · D. 60
 
 </details>
 
-Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
+Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test) has the full 69 questions, scored by section, every answer explained.
 
 ## Score yourself
 
@@ -110,7 +110,7 @@ Want more? The [free timed NJATC aptitude practice test on PrepClubs](https://pr
 
 ## Next step
 
-Functions and inequalities are where calm checking pays off. Practise them inside a full timed set with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test), then reread the traps list for any item you missed.
+Functions and inequalities are where calm checking pays off. Practise them inside a full timed set with the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test), then reread the traps list for any item you missed.
 
 ---
 

@@ -47,7 +47,7 @@ The ALLIANCE says it complies with the Americans with Disabilities Act. If you h
 
 ## Practise before you apply
 
-You may get only a few weeks between scheduling and the test. Work through the [7-day plan](study-plans.md#7-day-plan) before you submit your application, and take a timed run such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test).
+You may get only a few weeks between scheduling and the test. Work through the [7-day plan](study-plans.md#7-day-plan) before you submit your application, and take a timed run such as the [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test).
 
 ---
 

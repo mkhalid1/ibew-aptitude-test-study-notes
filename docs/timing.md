@@ -50,7 +50,7 @@ If you are behind at the halfway mark, stop rereading whole paragraphs. Go to th
 
 ## Practise against the clock
 
-Untimed practice teaches the method. Timed practice teaches the pace. After you have worked through the section pages, do at least one full timed run of each test. The [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ibew-aptitude-test) is timed, so you can check your pacing against the plan above. Do it without a calculator, as on the day.
+Untimed practice teaches the method. Timed practice teaches the pace. After you have worked through the section pages, do at least one full timed run of each test. The [free NJATC aptitude practice test on PrepClubs](https://prepclubs.com/free-practice-tests/njatc-aptitude-test?utm_source=github&utm_medium=referral&utm_campaign=tv2v2s&utm_content=ibew-aptitude-test) is timed, so you can check your pacing against the plan above. Do it without a calculator, as on the day.
 
 ---
 
